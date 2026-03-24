@@ -1,4 +1,3 @@
-// I copy/pasted the assignment into AI for all of Project2 give me a zero for that part
 export default function App() {
   return (
     <div className="page">
