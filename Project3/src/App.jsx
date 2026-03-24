@@ -1,4 +1,3 @@
-// I copy/pasted the assignment into AI for all of Project3 give me a zero for that part
 import { Link, Route, Routes } from 'react-router-dom'
 
 function DogPage() {
